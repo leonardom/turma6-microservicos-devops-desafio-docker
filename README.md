@@ -2,7 +2,7 @@
 
 ### DevOps Exercício 2 - Desafio Docker
 
--   Docker GoLange Image: https://hub.docker.com/repository/docker/leonardom/turma6-microservicos-devops-desafio-docker-golang
+-   Docker GoLang Image: https://hub.docker.com/repository/docker/leonardom/turma6-microservicos-devops-desafio-docker-golang
 
 -   GitHub: https://github.com/leonardom/turma6-microservicos-devops-desafio-docker
 
